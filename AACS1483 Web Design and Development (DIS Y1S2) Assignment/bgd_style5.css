@@ -1,0 +1,161 @@
+
+.title h1{
+    text-align: left;
+    font-size: 40px;
+    font-family: Arial;
+    color:whitesmoke;
+    padding-top: 25mm;
+}
+
+.promo1 h1{
+    padding-top: 2cm;
+    font-size:35px;
+    text-decoration: underline;
+    color:rgb(255, 241, 49);
+    text-align: center;
+
+}
+
+.promo1 p{
+    font-size:25px;
+    text-align: justify;
+    padding-bottom: 1.5cm;
+    padding-top: 5mm;
+}
+
+.promo2 h1{
+    font-size:60px;
+    text-decoration: underline;
+    color:rgb(255, 49, 49);
+    text-align: center;
+}
+
+.promo2 h2{
+    font-size:25px;
+    color:rgb(255, 49, 49);
+    text-align:center;
+}
+
+.promo2 img{
+    display: block;
+    width: 400px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+}
+
+.promo2 img:hover{
+    display: block;
+    width: 700px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+    -webkit-transition: width 2s ,height 2s;
+    transition: width 2s,height 2s;
+}
+
+
+.promo2 p{
+    font-size:30px;
+    text-align:center;
+    padding-bottom: 2cm;
+}
+
+.promo3 img{
+    display: block;
+    width: 350px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.promo3 h1{
+    font-size:45px;
+    text-decoration: underline;
+    color:rgb(255, 240, 37);
+    text-align: center;
+}
+
+.promo3 h2{
+    font-size: 38px;
+    text-align:center;
+}
+
+.promo3 p{
+    font-size:12px;
+    text-align: justify;
+    width: 300px;
+    height: 100px;
+    background: rgba(255, 0, 0, 0.377);
+    -webkit-transition: width 2s ,height 2s;
+    transition: width 2s,height 2s;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    margin-left: 38%;
+    border: solid black;
+}
+
+.promo3 p:hover {
+    width: 400px;
+    height: 150px;
+    font-size:30px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+.promo4 h1{
+    font-size:55px;
+    text-decoration: underline;
+    color:rgb(255, 49, 49);
+    text-align: center;
+    padding-top: 20mm;
+}
+
+.promo4 h2{
+    font-size:32px;
+    color:rgb(255, 49, 49);
+    text-align: center;
+}
+
+.promo4 img{
+    display: block;
+    width: 450px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+}
+
+.promo4 p{
+    padding-top: 5mm;
+    font-size:25px;
+    text-align:center;
+}
+
+.promo4 h3{
+    font-size:48px;
+    background-color: rgba(0, 0, 0, 0.24);
+    padding-top: 10mm;
+    text-align: center;
+    height:3cm;
+
+}
+.webpages h1{
+    padding-top: 2cm;
+    color:white;
+    font-size:45px;
+    text-decoration: underline;
+}
+
+article nav{
+    background-color:rgba(252, 172, 0, 0.459);
+    border:  solid black;
+    width: 8.5em;
+    float: left;
+    overflow: auto;
+    text-align: center;
+    font-size:52px;
+    height:2cm;
+}
+

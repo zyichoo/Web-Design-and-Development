@@ -1,0 +1,70 @@
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Assignment
+ 
+   Burger Boy
+   
+   Filename: bgd_background.css
+
+*/
+body{
+  font-family: "Lucida Console", Courier, monospace;
+  background-image: url(background.png) ;
+  background-repeat: no-repeat ;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+/*Footer Style*/
+
+div h2{
+  font-size: 50px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.page{
+  font-size: 30px;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  border-style: double;
+  background-color: rgb(255,100,2);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  text-align: center;
+  font-size: 15px;
+  
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  margin-right: 30px;
+  width: 100px;
+  
+}
+
+li a:hover:not(.active) {
+  background-color: hsl(9, 100%, 64%);
+}
+* {
+  box-sizing: border-box;
+}
+
+.logo img{
+  width:200px;
+  float:left;
+  height:150px;
+}

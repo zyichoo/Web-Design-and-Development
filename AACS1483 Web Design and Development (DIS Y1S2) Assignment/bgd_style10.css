@@ -1,0 +1,19 @@
+fieldset{
+    border: none;
+    text-align: center;
+    font-size: 50px;
+    color:red;
+    width: 1450px;
+    height: auto;
+}
+.p{
+    text-align: center;
+    font-size: 30px;
+}
+.address{
+    border: none;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+

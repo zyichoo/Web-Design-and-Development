@@ -1,0 +1,90 @@
+.title h1{
+    text-align: left;
+    font-size: 40px;
+    font-family: Arial;
+    color:whitesmoke;
+    padding-top: 25mm;
+}
+
+.title h2{
+    font-size: 50px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+
+.restaurant p{
+    font-size: 25px;
+    font-family: Comic Sans MS;
+    text-align:justify;
+
+} 
+
+.restaurant img{
+    display: block;
+    width: 300px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+}
+
+div.restaurant2 h1{
+    font-size:45px;
+    color:black;
+    text-decoration: underline;
+
+}
+
+div.restaurant2 p{
+    padding: 22px;
+    font-size:20px;
+    text-align:justify;
+    font-family: Comic Sans MS;
+}
+
+div.restaurant2 img{
+    display: block;
+    width: 350px;
+    height: 220px;
+    float: right;
+    border:  solid black;
+}
+
+div.restaurant3 h1{
+    font-size:45px;
+    color:black;
+    text-decoration: underline;
+}
+
+div.restaurant3 p{
+    padding: 10px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: Comic Sans MS;
+}
+
+div.restaurant3 img{
+    display: block;
+    width: 300px;
+    height: 300px;
+    float: left;
+    border:  solid black;
+}
+
+.aboutimg{
+    width: 1340px;
+    height: 450px;
+    padding-top: 2cm;
+}
+
+article nav{
+    background-color:rgba(252, 172, 0, 0.459);
+    border:  solid black;
+    width: 8.5em;
+    float: left;
+    overflow: auto;
+    text-align: center;
+    font-size:52px;
+    height:2cm;
+}

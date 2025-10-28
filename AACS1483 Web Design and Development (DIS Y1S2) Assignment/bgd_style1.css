@@ -1,0 +1,18 @@
+
+body > div.BurgerPromotion {
+  position: relative;
+  animation: mymove 5s infinite;
+  animation-timing-function: ease-out;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 855px;}
+}
+
+footer{
+  background-color: rgb(248, 146, 168);
+  clear: both;
+}
+
+

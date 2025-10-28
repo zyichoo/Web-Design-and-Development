@@ -1,0 +1,20 @@
+
+
+.gg h2{
+    padding-top: 2cm;
+    font-size: 52px;
+    text-decoration: underline;
+    font-family: monospace;
+    text-align: center;
+    color: rgb(255, 30, 0);
+}
+
+.gg td{
+    padding:2cm;
+    border:solid black;
+}
+
+footer{
+    font-size:20px;
+    background-color: rgba(255, 230, 0, 0.445);
+}
